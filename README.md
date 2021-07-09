@@ -19,3 +19,13 @@ This project is demonstration of use of data structures in real life.
 1. Do not load this data into an SQL table or use libraries like Pandas. 
 2. Get the results using basic data structures like list and maps.
 ````
+
+## Compile the code
+````
+javac reader.java
+````
+
+## Run the code
+````
+java reader
+````
